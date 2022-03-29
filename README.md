@@ -1,2 +1,2 @@
 # javascript-calculator
-Front End Development Libraries Project : Javascript Calculator
+FreeCodeCamp's Front End Development Libraries Project : Javascript Calculator
